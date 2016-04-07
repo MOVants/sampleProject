@@ -26,9 +26,7 @@ public class Dog {
 
 }
 	public void bark(){
-		System.out.println(name + " says Ruff2!");
-		System.out.println(name + " says Ruff!");
-		System.out.println(name + " says LALA!");
+		
 		System.out.println(name + " says altaiR!");
 		System.out.println(name + " s444ays Ruff!");
 		System.out.println(name + " says LALA244!");
