@@ -13,11 +13,8 @@ public class Dog {
 		myDogs[2] = new Dog();
 
 		myDogs[0].name = "Macy";
-<<<<<<< HEAD
 		myDogs[1].name = "altaire";
-=======
 		myDogs[1].name = "altair";
->>>>>>> stash
 
 		System.out.print("last dog name is ");
 		System .out.println(myDogs[2].name);
