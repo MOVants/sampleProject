@@ -5,7 +5,7 @@ class IfElseLoop {
 	int x = 1;
 	while (x < 4){
 		System.out.println("Doo");
-		System.out.println("Bee");
+		System.out.println("Beetok");
 		x = x + 1;
 	}
 	if (x == 4){
