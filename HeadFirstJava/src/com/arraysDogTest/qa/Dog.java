@@ -5,7 +5,7 @@ public class Dog {
 	public static void main(String[] args){
 		Dog dog1 = new Dog();
 		dog1.bark();
-		dog1.name = "Bart";
+		dog1.name = "Bat";
 	
 		Dog[] myDogs = new Dog[3];
 		myDogs[0] = new Dog();
