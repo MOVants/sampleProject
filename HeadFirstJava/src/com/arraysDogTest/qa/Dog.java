@@ -14,7 +14,7 @@ public class Dog {
 
 		myDogs[0].name = "Macy";
 		myDogs[1].name = "altaire";
-		myDogs[1].name = "altair";
+		myDogs[2].name = "altair";
 
 		System.out.print("last dog name is ");
 		System .out.println(myDogs[2].name);
