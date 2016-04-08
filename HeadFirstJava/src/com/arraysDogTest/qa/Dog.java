@@ -24,26 +24,18 @@ public class Dog {
 			myDogs[x].bark();
 			x = x + 1;
 		}
-
 }
 	public void bark(){
 
 		System.out.println(name + " says altaiR!");
-
-		System.out.println(name + " says Ruff2!");
 		System.out.println(name + " says Ruff!");
-		System.out.println(name + " says LALA!");
 		System.out.println(name + " says altaiRe!");
-
 		System.out.println(name + " s444ays Ruff!");
-		System.out.println(name + " says LALA244!");
-		System.out.println(name + " says LALA!22");
 		System.out.println(name + " says LALA1222");
 	}
 		public void eat(){
 			
 		}
-		public void chase () { 
-			
+		public void chase () { 		
 		}
 }
